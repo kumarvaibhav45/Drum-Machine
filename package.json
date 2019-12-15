@@ -2,6 +2,7 @@
   "name": "dropdown-test",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://kumarvaibhav45.github.io/Drum-Machine",
   "dependencies": {
     "react": "^16.10.2",
     "react-dom": "^16.10.2",
